@@ -8,7 +8,7 @@ class Person {
     
 }
 
-    $items=array():
+    $items = array();
     
     for($i = 0; $i < 10; $i++) {
         $personRecord = new Person();
