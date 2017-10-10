@@ -1,6 +1,6 @@
 <?php
 
-class person{
+class Person {
   
     var $personID;
     var $firstName;
